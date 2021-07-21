@@ -1,5 +1,5 @@
 # Hey, I'm Dylan 👋
-I'm an undergraduate at the University of Central Florida and am currently a Software Engineering Intern at Constant Contact. I'm also the Treasurer / Web Team lead for Knight Hacks, my school's yearly hackathon and year round software development club. I'm passionate about learning new things and finding creative solutions to problems. Computer science serves as an excellent medium to do that.
+I'm an undergraduate at the University of Central Florida and am currently a Software Engineering Intern at Constant Contact. I'm also the former Treasurer and President of Knight Hacks, my school's yearly hackathon and year round software development club. I'm passionate about learning new things and finding creative solutions to problems. Computer science serves as an excellent medium to do that.
 
 - 😄  Pronouns: He / Him / His
 - 💻  I'm currently interning at Microsoft as a software engineering intern and am a former intern at HubSpot, Constant Contact, Microsoft, MITRE, Go Port and GratSee! 
